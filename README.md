@@ -16,6 +16,16 @@
 - Aplicar injeção de dependências na aplicação
 - Realizar requisições HTTP através da classe HttpClient e desenvolva um CRUD
 
+### Angular 14: evoluindo a aplicação
+
+- Aprender a construir formulários reativos
+- Aplicar validações no formulário através da classe Validators
+- Acrescentar a funcionalidade de busca na aplicação
+- Adicionar paginação aos dados
+- Enviar parâmetros na URL por meio do HttpParams
+- Implementar a função "favoritar"
+- Utilizar o serviço Router para recarregar um componente
+
 ## 🖥️ Tecnologias
 
 <div>
